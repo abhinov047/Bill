@@ -4,7 +4,7 @@
 
 int main() {
     
-    char menu[][20] = {"Burger", "Pizza", "Sandwich", "French Fries", "Coke"};
+    char menu[][20] = {"Burger", "Pizza", "Sandwich", "Fries", "Coke"};
     float prices[] = {250, 350, 200, 150, 100};
 
     int numItems;
